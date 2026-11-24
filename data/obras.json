@@ -1,0 +1,1482 @@
+[
+  {
+    "id": 1,
+    "nombre": "AMPLIACION EDIFICIO Y REMODELACION INTEGRAL HOSPITAL DR RENE FAVALORO - TRABAJOS COMPLEMENTARIOS Nº 2",
+    "localidad": "HUINCA RENANCO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 38478,
+    "latitud": -34.8394,
+    "longitud": -64.3769
+  },
+  {
+    "id": 2,
+    "nombre": "CONSTRUCCION DE NUEVO EDIFICIO P /ESCUELA SECUNDARIA DE OFICIOS SANTA ROSA DE CALAMUCHITA- CALLE LA TACUARITA ESQ. CAMINO PCIAL A YACANTO- LOC. STA. ROSA- DPTO. CALAMUCHITA",
+    "localidad": "SANTA ROSA DE CALAMUCHITA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 547401,
+    "latitud": -32.0692,
+    "longitud": -64.5364
+  },
+  {
+    "id": 3,
+    "nombre": "TRABAJOS COMPLEMENTARIOS N°1 EN LA CONSTRUCCION NUEVO EDIFICIO PARA LA ESCUELA PROA SABATTINI, UBICADA EN B° SAN VICENTE-CORDOBA-DPTO.CAPITAL",
+    "localidad": "CORDOBA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 484973,
+    "latitud": -31.4201,
+    "longitud": -64.1888
+  },
+  {
+    "id": 5,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO PARA LA ESCUELA PROA UNQUILLO, UBICADA EN CALLE DIDIMO PIZARRO Y CALLE PUBLICA ¿ LOCALIDAD UNQUILLO - DEPARTAMENTO COLON",
+    "localidad": "UNQUILLO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 11346,
+    "latitud": -31.2333,
+    "longitud": -64.3167
+  },
+  {
+    "id": 6,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO PARA LA ESCUELA PROA ESTACION JUAREZ CELMAN, UBICADA EN CALLE PUBLICA S/N° ¿ LOCALIDAD ESTACION JUAREZ CELMAN - DEPARTAMENTO COLON",
+    "localidad": "ESTACION JUAREZ CELMAN",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 287527,
+    "latitud": -31.2833,
+    "longitud": -64.1667
+  },
+  {
+    "id": 9,
+    "nombre": "CONSTRUCCION DE NUEVO EDIFICIO PARA HOSPITAL MUNICIPAL DE VILLA ALLENDE EDUARDO ¿GATO¿ ROMERO,CALLE MARIANO MORENO ENTRE URQUIZA Y GUEMES ¿ LOC.VILLA ALLENDE - DPTO. COLON",
+    "localidad": "VILLA ALLENDE",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 689673,
+    "latitud": -31.2946,
+    "longitud": -64.2954
+  },
+  {
+    "id": 10,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO PARA LA ESCUELA SECUNDARIA DE OFICIOS A CREARSE EN TANTI, UBICADA EN CALLE PANAMA ESQUINA VENEZUELA - LOCALIDAD TANTI - DEPARTAMENTO PUNILLA",
+    "localidad": "TANTI",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 566498,
+    "latitud": -31.3583,
+    "longitud": -64.5889
+  },
+  {
+    "id": 11,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO PARA LA ESCUELA SECUNDARIA DE OFICIOS A CREARSE EN RIO CUARTO, UBICADA EN CALLE FRUA TERESA ESQUINA NESTOR PRINCE -LOC. RIO CUARTO - DPTO. RIO CUARTO -",
+    "localidad": "RIO CUARTO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 236220,
+    "latitud": -33.1232,
+    "longitud": -64.3493
+  },
+  {
+    "id": 13,
+    "nombre": "COSNTRUCCION NUEVO EDIFICIO ESCUELA SECUNDARIA EN ANISACATE -CALLE RUTA 5- B° PARQUE SAN MARTIN- LOCALIDAD: ANISACATE- DEPTO.: SANTA MARIA DE PUNILLA",
+    "localidad": "ANISACATE",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 104652,
+    "latitud": -31.7167,
+    "longitud": -64.4
+  },
+  {
+    "id": 14,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO ESCUELA SECUNDARIA EN COLONIA TIROLESA",
+    "localidad": "COLONIA TIROLESA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 515376,
+    "latitud": -31.2333,
+    "longitud": -64.0667
+  },
+  {
+    "id": 16,
+    "nombre": "CONSTRUCCION NUEVA CUBIERTA DE TECHOS PARA EL CENTRO CIVICO DE VILLA MARIA (EX HOSPITAL PASTEUR),CALLE MENDOZA N° 2154.LOC. VILLA MARIA.DPTO. GRAL SAN MARTIN",
+    "localidad": "VILLA MARIA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 310782,
+    "latitud": -32.4075,
+    "longitud": -63.2402
+  },
+  {
+    "id": 19,
+    "nombre": "OBRA COMPLEMENTARIA CONSTRUCCION NEXO ELECTRICO EN NUEVO EDIFICIO ESCUELA SECUNDARIA TECNICA EN SINSACATE",
+    "localidad": "SINSACATE",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 391379,
+    "latitud": -30.9333,
+    "longitud": -64.0833
+  },
+  {
+    "id": 22,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO ESCUELA SECUNDARIA - BARRIO UEPC - LOC. RIO CEBALLOS",
+    "localidad": "RIO CEBALLOS",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 512345,
+    "latitud": -31.1636,
+    "longitud": -64.3228
+  },
+  {
+    "id": 26,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO ESCUELA SECUNDARIA EN SALSIPUEDES",
+    "localidad": "SALSIPUEDES",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 129668,
+    "latitud": -31.1367,
+    "longitud": -64.2967
+  },
+  {
+    "id": 27,
+    "nombre": "EJEC.DE SUBESTACION TRANSFORMADORA Y EJEC.DE TENDIDO SUBTERRANEO DE BAJA TENSION EN LA ESCUELA PROA N° 28,INTERSECCION DE AV. RISATTI, COLON, ITALIA Y C. MORELLI-LOC.VICUÑA MACKENNA-DPTO. RIO CUARTO",
+    "localidad": "VICUÑA MACKENNA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 215267,
+    "latitud": -33.9189,
+    "longitud": -64.3914
+  },
+  {
+    "id": 29,
+    "nombre": "OBRA COMPLEMENTARIA N°1 EJECUCION DE LINEA DE MEDIA TENSION Y ADECUACION DE SET PARA ESCUELA DE OFICIOS-VILLA LAS ROSAS - DPTO. SAN JAVIER",
+    "localidad": "VILLA DE LAS ROSAS SAN JAVIER",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 294425,
+    "latitud": -31.95,
+    "longitud": -65.05
+  },
+  {
+    "id": 33,
+    "nombre": "EJECUCION DE VEREDAS Y NEXO DE AGUA POTABLE EN LA ESCUELA PROA N° 29 LA FALDA, UBICADA EN CALLE MACACHA GUEMES S/N° ¿ LOCALIDAD LA FALDA - DEPARTAMENTO PUNILLA",
+    "localidad": "LA FALDA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 372440,
+    "latitud": -31.0875,
+    "longitud": -64.4892
+  },
+  {
+    "id": 38,
+    "nombre": "REPARACION DEL HOSPITAL VICENTE AGUERO-LOCALIDAD: JESUS MARIA-DEPARTAMENTO: COLON",
+    "localidad": "JESUS MARIA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 446005,
+    "latitud": -30.9815,
+    "longitud": -64.0942
+  },
+  {
+    "id": 39,
+    "nombre": "CONSTRUCCION DE UN NUEVO EDIFICIO PARA EL JUZGADO DE PAZ DE LA LOCACION DE VILLA TULUMBA - DPTO TULUMBA",
+    "localidad": "VILLA TULUMBA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 195380,
+    "latitud": -30.3983,
+    "longitud": -64.1228
+  },
+  {
+    "id": 42,
+    "nombre": "OBRA COMPLEMENTARIA N° 2 CONSTRUCCION NUEVO MODULO PARA EL COMPLEJO CARCELARIO N° 1 REVERENDO PADRE LUCHESSE",
+    "localidad": "BOUWER",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 485193,
+    "latitud": -31.5567,
+    "longitud": -64.1917
+  },
+  {
+    "id": 43,
+    "nombre": "REPARACION DEL HOSPITAL REGIONAL JOSE B. ITURRASPE- LOCALIDAD: SAN FRANCISCO- DEPARTAMENTO: SAN JUSTO",
+    "localidad": "SAN FRANCISCO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 149203,
+    "latitud": -31.428,
+    "longitud": -62.0827
+  },
+  {
+    "id": 44,
+    "nombre": "REFACCIONES EDILICIAS EN SECTOR DE INTERNADOS AGUDOS DEL HOSPITAL DR. EMILIO VIDAL ABAL- RUTA NAC. N° 9 KM 609- LOCALIDAD: OLIVA- DPTO.: TERCERO ARRIBA",
+    "localidad": "OLIVA",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 26283,
+    "latitud": -32.0417,
+    "longitud": -63.5694
+  },
+  {
+    "id": 46,
+    "nombre": "REPARACION DEL HOSPITAL REGIONAL JOSE CEBALLOS- LOCALIDAD: BELL VILLE- DEPARTAMENTO: UNION",
+    "localidad": "BELL VILLE",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 190131,
+    "latitud": -32.6259,
+    "longitud": -62.6887
+  },
+  {
+    "id": 51,
+    "nombre": "REPARACION DEL HOSPITAL DOMINGO FUNES- LOCALIDAD: VILLA CAEIRO- DEPARTAMENTO: PUNILLA.",
+    "localidad": "VILLA CAEIRO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 216854,
+    "latitud": -31.2833,
+    "longitud": -64.4667
+  },
+  {
+    "id": 56,
+    "nombre": "EJECUCION DE SUBESTACION TRANSFORMADORA Y EJECUCION DE TENDIDO SUBTERRANEO DE BAJA TENSION PARA LA ESCUELA PROA N° 6 SAN PEDRO- AV. JUAN PABLO II- LOC.: SAN PEDRO- DPTO.: SAN ALBERTO",
+    "localidad": "SAN PEDRO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 103962,
+    "latitud": -31.9333,
+    "longitud": -65.2167
+  },
+  {
+    "id": 59,
+    "nombre": "EJECUCION DE NEXO ELECTRICO Y VEREDAS EN ESC. PROA N° 12 MINA CLAVERO- LOCALIDAD: MINA CLAVERO - DEPARTAMENTO: SAN ALBERTO",
+    "localidad": "MINA CLAVERO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 699704,
+    "latitud": -31.7225,
+    "longitud": -65.0044
+  },
+  {
+    "id": 60,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO PARA LA ESCUELA SECUNDARIA DE OFICIOS A CREARSE EN VILLA CARLOS PAZ, UBICADA EN CALLE SUCRE ESQUINA PUEYRREDON - LOCALIDAD VILLA CARLOS PAZ - DEPARTAMENTO PUNILLA",
+    "localidad": "VILLA CARLOS PAZ",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 296344,
+    "latitud": -31.4241,
+    "longitud": -64.4978
+  },
+  {
+    "id": 64,
+    "nombre": "CONSTRUCCION NUEVO EDIFICIO ESCUELA TECNICA SECUNDARIA EN EL BRETE",
+    "localidad": "EL BRETE",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 537738,
+    "latitud": -30.6833,
+    "longitud": -64.8333
+  },
+  {
+    "id": 65,
+    "nombre": "EJECUCION DE SUBESTACION TRANSFORMADORA, EJECUCION DE TENDIDO AEREO, SUBTERRANEO DE BAJA TENSION E INSTALACION DE NEXO PLUVIAL EN LA ESCUELA PROA N°13 DEAN FUNES - DPTO. ISCHILIN",
+    "localidad": "DEAN FUNES",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 388949,
+    "latitud": -30.4222,
+    "longitud": -64.3497
+  },
+  {
+    "id": 70,
+    "nombre": "\"RECUPERACION Y PUESTA EN VALOR DEL BALNEARIO DE RIO TERCERO- 2DA ETAPA\"- AV. DEL MIRADOR S/N°- B° CENTRO- LOCALIDAD TERCERO ARRIBA- DPTO. RIO TERCERO",
+    "localidad": "RIO TERCERO",
+    "division": "ARQUITECTURA",
+    "tipologia": "OBRA",
+    "montoMillones": 373025,
+    "latitud": -32.173,
+    "longitud": -64.1142
+  },
+  {
+    "id": 73,
+    "nombre": "REHABILITACION DE R.P. N° 6- TRAMO: ORDOÑEZ - INTERSECCION R.P. N° 3",
+    "localidad": "ORDOÑEZ",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 208519,
+    "latitud": -32.6167,
+    "longitud": -62.8833
+  },
+  {
+    "id": 76,
+    "nombre": "REHABILITACION PARCIAL RPN°10-TR: LAS JUNTURAS-COLAZO-INTERSECCION RPN°10 Y E-87 Y MANTENIMIENTO DE RUTAS ALEDAÑAS",
+    "localidad": "LAS JUNTURAS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 400178,
+    "latitud": -31.8333,
+    "longitud": -63.45
+  },
+  {
+    "id": 80,
+    "nombre": "OBRA. PAVIMENTACION RUTA PROVINCIAL N°28 TRAMO: INTERSECCION R.P. S-269 - INGRESO RESERVA CERRO BLANCO",
+    "localidad": "TALA CAÑADA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 276794,
+    "latitud": -31.35,
+    "longitud": -64.9667
+  },
+  {
+    "id": 81,
+    "nombre": "REHABILITACION RPN°27- TR: JOVITA- MATTALDI Y MANTENIMIENTO DE RUTAS ALEDAÑAS",
+    "localidad": "JOVITA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 689275,
+    "latitud": -34.5167,
+    "longitud": -63.95
+  },
+  {
+    "id": 82,
+    "nombre": "REHABILITACION RPN° S-271- TR: LOS REARTES- VA. GRAL. BELGRANO Y RPN° S-495- TR: VA. CIUDAD AMERICA-POTRERO DE GARAY Y CONSERVACION DE RUTAS ALEDAÑAS",
+    "localidad": "LOS REARTES",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 345977,
+    "latitud": -31.9167,
+    "longitud": -64.5833
+  },
+  {
+    "id": 84,
+    "nombre": "PAVIMENTACION RUTA PROVINCIAL S-400. TRAMO: LA HIGUERA - RUMI HUASI. DPTO.: MINAS.",
+    "localidad": "RUMI HUASI",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 49026,
+    "latitud": -31.05,
+    "longitud": -65.1333
+  },
+  {
+    "id": 85,
+    "nombre": "PAVIMENTACION R.P. S-152. TRAMO: LAS GRAMILLAS- INTERSECCION R.P E-52- DEPARTAMENTO: RIO PRIMERO",
+    "localidad": "LAS GRAMILLAS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 201231,
+    "latitud": -31.2333,
+    "longitud": -63.1667
+  },
+  {
+    "id": 86,
+    "nombre": "REHABILITACION DE R.P. N° 11 - TRAMO: ISLA VERDE - INT. R.P. N° 12 (SUR ) Y RUTAS ALEDAÑAS",
+    "localidad": "ISLA VERDE",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 56433,
+    "latitud": -33.2333,
+    "longitud": -62.4
+  },
+  {
+    "id": 88,
+    "nombre": "REHABILITACION PARCIAL RPN°14- TR: LOS HORNILLOS-PROG 10,00 HACIA LAS TAPIAS Y MANTENIMIENTO DE RUTAS ALEDAÑAS",
+    "localidad": "LAS TAPIAS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 438463,
+    "latitud": -31.9667,
+    "longitud": -65.1
+  },
+  {
+    "id": 89,
+    "nombre": "ACCESO A VILLA CONCEPCION DEL TIO",
+    "localidad": "VILLA CONCEPCION DEL TIO",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 385604,
+    "latitud": -31.3167,
+    "longitud": -62.8167
+  },
+  {
+    "id": 90,
+    "nombre": "PAVIMENTACION RUTA PROVINCIAL S-528. TRAMO: R.P. N° 23 - LAS ALBAHACAS - VILLA EL CHACAY. DPTO.: RIO CUARTO",
+    "localidad": "VILLA EL CHACAY",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 236148,
+    "latitud": -32.85,
+    "longitud": -64.8667
+  },
+  {
+    "id": 92,
+    "nombre": "REHABILITACION R.P. N° 6 - TRAMO ZONA URBANA INRIVILLE",
+    "localidad": "INRIVILLE",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 225923,
+    "latitud": -32.95,
+    "longitud": -62.2333
+  },
+  {
+    "id": 93,
+    "nombre": "PAVIMENTACION DE RPN° S-409- TR: PROG 5,0- SAN JOSE- DPTO SAN JAVIER",
+    "localidad": "SAN JOSE",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 124325,
+    "latitud": -31.8833,
+    "longitud": -65.1833
+  },
+  {
+    "id": 94,
+    "nombre": "ILUMINACION DE LA RUTA PROVINCIAL C-45 ENTRE RN N°20 Y RP N°34",
+    "localidad": "FALDA DEL CARMEN",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 124801,
+    "latitud": -31.5833,
+    "longitud": -64.45
+  },
+  {
+    "id": 97,
+    "nombre": "REHABILITACION RPN°15- TR: TRES ARBOLES-LA HIGUERA Y CONSERVACION DE RUTAS ALEDAÑAS",
+    "localidad": "TRES ARBOLES",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 467915,
+    "latitud": -31.1167,
+    "longitud": -65.15
+  },
+  {
+    "id": 100,
+    "nombre": "REHABILITACION RPN°3- TR: ACCESO VIAMONTE- LA CESIRA Y MANTENIMIENTO DE RUTAS ALEDAÑAS",
+    "localidad": "VIAMONTE",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 570729,
+    "latitud": -33.7667,
+    "longitud": -63.1
+  },
+  {
+    "id": 102,
+    "nombre": "PAVIMENTACION COSTANERA VILLA CURA BROCHERO DESDE PUENTE AMARILLO HASTA R.P. N° 15 Y EJECUCION DE INTERSECCION DE COSTANERA VILLA CURA BROCHERO Y R.P. N° 15. DEPARTAMENTO SAN ALBERTO",
+    "localidad": "VILLA CURA BROCHERO",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 455236,
+    "latitud": -31.7056,
+    "longitud": -65.0167
+  },
+  {
+    "id": 103,
+    "nombre": "PAVIMENTACION ACCESO SUR - MUNICIPALIDAD DE SAN ANTONIO DE ARREDONDO",
+    "localidad": "SAN ANTONIO DE ARREDONDO",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 377193,
+    "latitud": -31.4833,
+    "longitud": -64.5167
+  },
+  {
+    "id": 106,
+    "nombre": "REHABILITACION DE R.P. N° A-170 TRAMO: GUATIMOZIN - CAVANAGH Y CONSERVACION DE RUTAS ALEDAÑAS",
+    "localidad": "CAVANAGH",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 314298,
+    "latitud": -33.4833,
+    "longitud": -62.3333
+  },
+  {
+    "id": 107,
+    "nombre": "REHABILITACION PARCIAL R.P. N° 11 TRAMO : CORRAL DE BUSTOS - LIMITE CON SANTA FE Y MANTENIMIENTO DE RUTAS ALEDAÑAS",
+    "localidad": "CORRAL DE BUSTOS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 8702,
+    "latitud": -33.2833,
+    "longitud": -62.1833
+  },
+  {
+    "id": 110,
+    "nombre": "PAVIMENTACION RUTA PROVINCIAL N°16 / TRAMO: LAS ARRIAS - SAN JOSE DE LA DORMIDA / SEGUNDA ETAPA DE PAVIMENTACION: DESDE PROGRESIVA 0 A PROGRESIVA 11600",
+    "localidad": "LAS ARRIAS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 452421,
+    "latitud": -30.35,
+    "longitud": -63.6333
+  },
+  {
+    "id": 111,
+    "nombre": "PAVIMENTACION RUTA PROVINCIAL A-175. TRAMO: MEDIA NARANJA - ALTO DE LOS QUEBRACHOS. DEPARTAMENTO: CRUZ DEL EJE.",
+    "localidad": "ALTO DE LOS QUEBRACHOS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 690542,
+    "latitud": -30.6667,
+    "longitud": -64.8667
+  },
+  {
+    "id": 114,
+    "nombre": "REHABILITACION RPN°2- TR: INTERS RPN°E-79-RIO TERCERO Y RPN°E-79- TR: ONCATIVO-COLONIA ALMADA",
+    "localidad": "COLONIA ALMADA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 593685,
+    "latitud": -32.0333,
+    "longitud": -63.8667
+  },
+  {
+    "id": 115,
+    "nombre": "REHABILITACION RPN°24-TRAMO: SAN BASILIO-PUENTE SANTA CATALINA Y CONSERVACION DE RUTAS ALEDAÑAS",
+    "localidad": "SAN BASILIO",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 410974,
+    "latitud": -33.4833,
+    "longitud": -64.3167
+  },
+  {
+    "id": 117,
+    "nombre": "REHABILITACION RPN°4- TR: ETRURIA-CHAZON YCONSERVACION DE RUTAS ALEDAÑAS",
+    "localidad": "CHAZON",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 362137,
+    "latitud": -33.0167,
+    "longitud": -63.2667
+  },
+  {
+    "id": 123,
+    "nombre": "REPAVIMENTACION PISTA AERODROMO DE MARCOS JUAREZ-DPTO MARCOS JUAREZ",
+    "localidad": "MARCOS JUAREZ",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 337626,
+    "latitud": -32.6978,
+    "longitud": -62.1067
+  },
+  {
+    "id": 126,
+    "nombre": "INTERSECCION DE R.N. N°38 CON R.P. N°54 Y COSTANERA DE COSQUIN - DEPARTAMENTO: PUNILLA",
+    "localidad": "COSQUIN",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 65580,
+    "latitud": -31.2453,
+    "longitud": -64.4653
+  },
+  {
+    "id": 127,
+    "nombre": "PAVIMENTACION RUTA PROVINCIAL N°10 - TRAMO: ADELIA MARIA-GENERAL LEVALLE (PROG. 0+000 A PROG. 10+261) - DEPARTAMENTO: JUAREZ CELMAN",
+    "localidad": "ADELIA MARIA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 329490,
+    "latitud": -33.6333,
+    "longitud": -64.0167
+  },
+  {
+    "id": 128,
+    "nombre": "PAVIMENTACION DE ACCESO A IMPIRA CAMINO T 182",
+    "localidad": "IMPIRA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 205291,
+    "latitud": -31.8333,
+    "longitud": -63.7667
+  },
+  {
+    "id": 129,
+    "nombre": "PAVIMENTACION RUTA PROVINCIAL N°23. TRAMO: RIO DE LOS SAUCES - RUTA PROVINCIAL E-68. DPTO: CALAMUCHITA",
+    "localidad": "RIO DE LOS SAUCES",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 579097,
+    "latitud": -32.5333,
+    "longitud": -64.5833
+  },
+  {
+    "id": 139,
+    "nombre": "SANEAMIENTO LOCALIDAD COLONIA CAROYA - PLANTA DE TRATAMIENTO DE EFLUENTES CLOACALES Y OBRAS ANEXAS",
+    "localidad": "COLONIA CAROYA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 77232,
+    "latitud": -31.0253,
+    "longitud": -64.0725
+  },
+  {
+    "id": 140,
+    "nombre": "RED COLECTORA DE EFLUENTES CLOACALES DEL BARRIO CENTRO / RED COLECTORA DE EFLUENTES CLOACALES DE LOS BARRIOS STOECKLIN Y LOS PARAISOS - LA CALERA",
+    "localidad": "LA CALERA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 472230,
+    "latitud": -31.3442,
+    "longitud": -64.3353
+  },
+  {
+    "id": 142,
+    "nombre": "SANEAMIENTO CLOACAL PANAHOLMA",
+    "localidad": "PANAHOLMA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 412096,
+    "latitud": -31.65,
+    "longitud": -65.0333
+  },
+  {
+    "id": 143,
+    "nombre": "ABASTECIMIENTO DE GAS NATURAL ANISACATE, LA SERRANITA, LA RANCHERITA, LOS AROMOS, LOS ESPINILLOS Y VILLA CIUDAD PARQUE",
+    "localidad": "VILLA LOS AROMOS",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 649317,
+    "latitud": -31.7333,
+    "longitud": -64.45
+  },
+  {
+    "id": 146,
+    "nombre": "ACUEDUCTO TRASLASIERRA - SEGUNDA ETAPA",
+    "localidad": "LA POBLACION",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 344898,
+    "latitud": -32.1,
+    "longitud": -65.0167
+  },
+  {
+    "id": 147,
+    "nombre": "OBRAS BASICAS DE SANEAMIENTO CLOACAL PARA LAS LOCALIDADES DE CUESTA BLANCA, VILLA ICHO CRUZ, TALA HUASI, MAYU SUMAJ, SAN ANTONIO DE ARREDONDO Y SECTOR SUR DE VILLA CARLOS PAZ - DPTO. PUNILLA",
+    "localidad": "CUESTA BLANCA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 252242,
+    "latitud": -31.4833,
+    "longitud": -64.5667
+  },
+  {
+    "id": 148,
+    "nombre": "ACUEDUCTO GANADERO LA PROVIDENCIA, LA RAMADA Y SANTA ANA - DEPARTAMENTO PRESIDENTE ROQUE SAENZ PEÑA - PROVINCIA DE CORDOBA",
+    "localidad": "COLONIA LA PROVIDENCIA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 516386,
+    "latitud": -30.8833,
+    "longitud": -62.1333
+  },
+  {
+    "id": 150,
+    "nombre": "ZONA 2: ABASTECIMIENTO DE GAS NATURAL A PARQUE INDUSTRIAL DE LA LOCALIDAD DE MATORRALES",
+    "localidad": "MATORRALES",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 698669,
+    "latitud": -31.7167,
+    "longitud": -63.5167
+  },
+  {
+    "id": 151,
+    "nombre": "ZONA 5: ABASTECIMIENTO DE GAS NATURAL A PARQUE INDUSTRIAL LOCALIDAD DE VILLA DE SOTO",
+    "localidad": "VILLA DE SOTO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 695052,
+    "latitud": -30.8556,
+    "longitud": -64.9972
+  },
+  {
+    "id": 152,
+    "nombre": "ABASTECIMIENTO DE GAS NATURAL A LAS LOCALIDADES DE RINCON Y CAPILLA DEL CARMEN",
+    "localidad": "RINCON",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 311098,
+    "latitud": -31.5667,
+    "longitud": -63.4167
+  },
+  {
+    "id": 153,
+    "nombre": "ABASTECIMIENTO DE GAS NATURAL A CHURQUI CAÑADA, COLONIA VICENTE AGUERO Y OBRAS COMPLEMENTARIAS GRAN CORDOBA",
+    "localidad": "CHURQUI CAÑADA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 109985,
+    "latitud": -30.5333,
+    "longitud": -64.0833
+  },
+  {
+    "id": 165,
+    "nombre": "REDES COLECTORAS CLOACALES DOMICILIARIAS - PILAR",
+    "localidad": "PILAR",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 649855,
+    "latitud": -31.6811,
+    "longitud": -63.8836
+  },
+  {
+    "id": 167,
+    "nombre": "PROVISION DE AGUA PARA AVIONES HIDRANTES AERODROMO LA CUMBRE (DEPARTAMENTO PUNILLA",
+    "localidad": "LA CUMBRE",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 441926,
+    "latitud": -30.9806,
+    "longitud": -64.4917
+  },
+  {
+    "id": 168,
+    "nombre": "PROVISION DE AGUA PARA AVIONES HIDRANTES - AERODROMO VILLA DOLORES - DPTO. SAN JAVIER",
+    "localidad": "VILLA DOLORES",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 32033,
+    "latitud": -31.9459,
+    "longitud": -65.1896
+  },
+  {
+    "id": 169,
+    "nombre": "SANEAMIENTO CLOACAL TRANSITO",
+    "localidad": "TRANSITO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 102068,
+    "latitud": -31.4167,
+    "longitud": -63.1833
+  },
+  {
+    "id": 170,
+    "nombre": "SANEAMIENTO CLOACAL LOCALIDAD DE LA PLAYOSA",
+    "localidad": "LA PLAYOSA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 631906,
+    "latitud": -32.1,
+    "longitud": -63.0333
+  },
+  {
+    "id": 171,
+    "nombre": "REDES COLECTORAS CLOACALES DOMICILIARIAS - LOCALIDAD DE ONCATIVO",
+    "localidad": "ONCATIVO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 544268,
+    "latitud": -31.9136,
+    "longitud": -63.6819
+  },
+  {
+    "id": 172,
+    "nombre": "PROVISION AGUA POTABLE MANFREDI",
+    "localidad": "MANFREDI",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 294649,
+    "latitud": -31.8458,
+    "longitud": -63.7458
+  },
+  {
+    "id": 173,
+    "nombre": "PROVISION DE AGUA POTABLE EN LA LOCALIDAD DE ACHIRAS",
+    "localidad": "ACHIRAS",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 286047,
+    "latitud": -33.1764,
+    "longitud": -64.9964
+  },
+  {
+    "id": 174,
+    "nombre": "SANEAMIENTO EN LA LOCALIDAD DE TICINO EXTENSION DE CAÑERIAS DE IMPULSION, NUEVA PLANTA DEPURADORA DE LIQUIDOS CLOACALES Y OBRA DE DESCARGA",
+    "localidad": "TICINO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 403932,
+    "latitud": -32.6833,
+    "longitud": -63.4333
+  },
+  {
+    "id": 175,
+    "nombre": "REACONDICIONAMIENTO Y AMPLIACION DE LA PLANTA DE TRATAMIENTO DE LIQUIDOS CLOACALES LABOULAYE",
+    "localidad": "LABOULAYE",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 39905,
+    "latitud": -34.1267,
+    "longitud": -63.3911
+  },
+  {
+    "id": 176,
+    "nombre": "ACUEDUCTO SANTA ELENA - SAN FRANCISCO DEL CHAÑAR (DPTOS. RIO SECO Y SOBREMONTE)",
+    "localidad": "SANTA ELENA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 385020,
+    "latitud": -29.8833,
+    "longitud": -63.9
+  },
+  {
+    "id": 184,
+    "nombre": "NUEVO SISTEMA DE PROVISION DE AGUA POTABLE - VILLA SAN ISIDRO -DPTO. SANTA MARIA",
+    "localidad": "VILLA SAN ISIDRO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 376270,
+    "latitud": -31.8333,
+    "longitud": -64.4833
+  },
+  {
+    "id": 194,
+    "nombre": "NUEVA PERFORACION PARA PROVISION DE AGUA POTABLE. LOCALIDAD DE TOLEDO. DEPARTAMENTO SANTA MARIA",
+    "localidad": "TOLEDO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 55254,
+    "latitud": -31.5556,
+    "longitud": -64.0111
+  },
+  {
+    "id": 198,
+    "nombre": "READECUACION CANAL SATURNINO MARIA LASPIUR - COLONIA PROSPERIDAD - DEPARTAMENTO SAN JUSTO",
+    "localidad": "SATURNINO MARIA LASPIUR",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 246959,
+    "latitud": -31.7,
+    "longitud": -62.4833
+  },
+  {
+    "id": 205,
+    "nombre": "REVESTIMIENTO CANAL SECUNDARIO 8 MD Y MI SISTEMA DE RIEGO CRUZ DEL EJE ZONA MEDIA NARANJA ¿ SEGUNDO TRAMO",
+    "localidad": "MEDIA NARANJA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 153746,
+    "latitud": -30.6833,
+    "longitud": -64.8667
+  },
+  {
+    "id": 210,
+    "nombre": "READECUACION ARROYO CALCHIN CANAL BAJO HONDO HASTA RUTA NACIONAL NRO 19.",
+    "localidad": "CALCHIN OESTE",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 683736,
+    "latitud": -31.7167,
+    "longitud": -63.2833
+  },
+  {
+    "id": 213,
+    "nombre": "MEJORA DEL SISTEMA DE PROVISION DE AGUA POTABLE DE COLONIA VICENTE AGUERO - PRIMERA ETAPA",
+    "localidad": "COLONIA VICENTE AGUERO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 484653,
+    "latitud": -31.05,
+    "longitud": -64.0333
+  },
+  {
+    "id": 216,
+    "nombre": "TRABAJOS DE EMERGENCIA EN MONTAÑA SOBRE RP. N° 28 - TR.: TUNEL N° 1 (TANINGA) - ROTONDA DE LOS TUNELES - DPTO. POCHO.-",
+    "localidad": "TANINGA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 458539,
+    "latitud": -31.3667,
+    "longitud": -65.05
+  },
+  {
+    "id": 217,
+    "nombre": "READECUACION DE LA CAPACIDAD DE EVACUACION DEL CANAL MAYOR DE MORTEROS A LA LAGUNA MAR CHIQUITA - DEPARTAMENTO SAN JUSTO",
+    "localidad": "MORTEROS",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 588945,
+    "latitud": -30.7117,
+    "longitud": -61.9986
+  },
+  {
+    "id": 220,
+    "nombre": "OBRA BASICA DE SANEAMIENTO EN LA LOCALIDAD DE MELO",
+    "localidad": "MELO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 621400,
+    "latitud": -34.35,
+    "longitud": -63.45
+  },
+  {
+    "id": 221,
+    "nombre": "OBRA BASICA DE SANEAMIENTO - PERILAGO DIQUE CRUZ DEL EJE (PRIMERA ETAPA - SECTOR NORTE)",
+    "localidad": "CRUZ DEL EJE",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 572355,
+    "latitud": -30.7264,
+    "longitud": -64.8056
+  },
+  {
+    "id": 223,
+    "nombre": "OBRA DE CAPTACION, IMPULSION Y DISTRIBUCION DE AGUA POTABLE CANTERAS EL SAUCE - DEPARTAMENTO COLON",
+    "localidad": "EL MANZANO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 306708,
+    "latitud": -31.0833,
+    "longitud": -64.2833
+  },
+  {
+    "id": 225,
+    "nombre": "PASARELA PEATONAL VILLA GENERAL BELGRANO",
+    "localidad": "VILLA GENERAL BELGRANO",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 499741,
+    "latitud": -31.9775,
+    "longitud": -64.5589
+  },
+  {
+    "id": 227,
+    "nombre": "REHABILITACION RPN°15- TR: LA HIGUERA-SAN CARLOS MINAS Y CONSERVACION DE RUTAS ALEDAÑAS",
+    "localidad": "LA HIGUERA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 438966,
+    "latitud": -31.0167,
+    "longitud": -65.1
+  },
+  {
+    "id": 228,
+    "nombre": "REHABILITACION RPN°26- TR: PINCEN- RANQUELES Y MANTENIMIENTO DE RUTAS ALEDAÑAS",
+    "localidad": "PINCEN",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 354100,
+    "latitud": -34.5333,
+    "longitud": -64.5667
+  },
+  {
+    "id": 229,
+    "nombre": "REHABILITACION R.P. N° 17 TRAMO: BALNEARIA ¿ INTERSECCION R.P. N°3 Y MANTENIMIENTO DE RUTAS ALEDAÑAS DEPARTAMENTOS: SAN JUSTO",
+    "localidad": "BALNEARIA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 489148,
+    "latitud": -31.0083,
+    "longitud": -62.6667
+  },
+  {
+    "id": 230,
+    "nombre": "CONSTRUCCION DE LINEA AEREA DE MONTAÑA, MEDIA TENSION (13,2 KV) EN LOCALIDAD DE LA RANCHERITA - PROVINCIA DE CORDOBA",
+    "localidad": "LA RANCHERITA",
+    "division": "INF. ELÉCTRICA",
+    "tipologia": "OBRA",
+    "montoMillones": 660241,
+    "latitud": -31.75,
+    "longitud": -64.4333
+  },
+  {
+    "id": 231,
+    "nombre": "TAREAS PARA FINALIZAR EL PUENTE VADO SOBRE RIO SUQUIA EN PASO SAN RAMON",
+    "localidad": "RIO PRIMERO",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 542639,
+    "latitud": -31.3317,
+    "longitud": -63.6183
+  },
+  {
+    "id": 236,
+    "nombre": "REFUNCIONALIZACION SUBCUENCA 1 -TRAMO ENTRE LAS LOCALIDADES CAMILO ALDO Y C. G. B. O'HOGGINS - DEPTO MARCOS JUAREZ",
+    "localidad": "CAMILO ALDAO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 15571,
+    "latitud": -33.1283,
+    "longitud": -61.9467
+  },
+  {
+    "id": 238,
+    "nombre": "ROTONDA EN INTERSECCION R.P. Nº 1 Y R.P. Nº 17",
+    "localidad": "BRINKMANN",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 26810,
+    "latitud": -30.8667,
+    "longitud": -62.0333
+  },
+  {
+    "id": 239,
+    "nombre": "READECUACION Aº SAN JOSE - TRAMO T130-28 A RUTA PROVINCIAL Nº4 - DEPTO GRAL SAN MARTIN",
+    "localidad": "AUSONIA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 397064,
+    "latitud": -32.6333,
+    "longitud": -63.2667
+  },
+  {
+    "id": 241,
+    "nombre": "PROVISION DE AGUA PARA AVIONES HIDRANTES - AERODROMO ASCOCHINGA",
+    "localidad": "ASCOCHINGA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 676736,
+    "latitud": -30.95,
+    "longitud": -64.2667
+  },
+  {
+    "id": 242,
+    "nombre": "PROVISION DE AGUA POTABLE ESTACION GENERAL PAZ ETAPA 2",
+    "localidad": "ESTACION GENERAL PAZ",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 272219,
+    "latitud": -31.1333,
+    "longitud": -64.1333
+  },
+  {
+    "id": 243,
+    "nombre": "REFUERZO DEL SISTEMA DE PROVISION DE AGUA POTABLE DE LA COMUNA DE PASO VIEJO",
+    "localidad": "PASO VIEJO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 201949,
+    "latitud": -30.8,
+    "longitud": -65.0667
+  },
+  {
+    "id": 244,
+    "nombre": "EJECUCION DERIVACION DESDE ACUEDUCTO PICHANAS EL CHACHO A PJE. POCITOS DPTO MINAS",
+    "localidad": "EL CHACHO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 322098,
+    "latitud": -30.7833,
+    "longitud": -65.4167
+  },
+  {
+    "id": 245,
+    "nombre": "INTERCONEXION AU RN Nº 19 ¿ RP A188 MI GRANJA",
+    "localidad": "MI GRANJA",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 147965,
+    "latitud": -31.3333,
+    "longitud": -64.0333
+  },
+  {
+    "id": 246,
+    "nombre": "REPARACION VERTEDERO LAGUNA ALAS COLORADAS - DPTO JUAREZ CELMAN",
+    "localidad": "UCACHA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 639470,
+    "latitud": -33.0333,
+    "longitud": -63.5
+  },
+  {
+    "id": 247,
+    "nombre": "SISTEMATIZACION DE ESCURRIMIENTOS RURALES CUENCA EL OMBU - DPTO. MARCOS JUAREZ",
+    "localidad": "GENERAL ROCA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 42283,
+    "latitud": -32.7333,
+    "longitud": -61.9167
+  },
+  {
+    "id": 248,
+    "nombre": "RECONSTRUCCION DE ACCESOS EN PUENTE SOBRE RIO CTALAMOCHITA EN LOS POTREROS",
+    "localidad": "LOS POTREROS",
+    "division": "VIALIDAD",
+    "tipologia": "OBRA",
+    "montoMillones": 642390,
+    "latitud": -31.05,
+    "longitud": -64.35
+  },
+  {
+    "id": 259,
+    "nombre": "LP 5160 PLAN DE OBRAS DE DISTRIBUCION 2021 - CAPITAL - OBRA: REMODELACION DISTRIBUIDOR AEREO EN M.T. (13,2 KV) QUEBRACHAL",
+    "localidad": "EL QUEBRACHAL",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 110665,
+    "latitud": -30.65,
+    "longitud": -64.95
+  },
+  {
+    "id": 278,
+    "nombre": "TCT EN PREDIO ET MENDIOLAZA",
+    "localidad": "MENDIOLAZA",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 529935,
+    "latitud": -31.2667,
+    "longitud": -64.3
+  },
+  {
+    "id": 284,
+    "nombre": "CENTRAL LAS FERIAS, REPARACIONES VARIAS",
+    "localidad": "LAS HIGUERAS",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 639737,
+    "latitud": -33.0925,
+    "longitud": -64.2886
+  },
+  {
+    "id": 298,
+    "nombre": "LP 5367 \"REPOTENCIACION L.A.T 132 KV E.T. MALVINAS - E.T. MONTECRISTO Y CAMPO DE SALIDA DE LINEA EN E.T. MONTECRISTO CON CONDUCTOR DE ALUMINIO PARA ALTA TEMPERATURA Y BAJA FLECHA TIPO ACCC- CORDOBA\".",
+    "localidad": "MONTE CRISTO",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 643258,
+    "latitud": -31.3417,
+    "longitud": -63.9458
+  },
+  {
+    "id": 300,
+    "nombre": "PARQUE SOLAR ARROYO CABRAL",
+    "localidad": "ARROYO CABRAL",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 36299,
+    "latitud": -32.4833,
+    "longitud": -63.4
+  },
+  {
+    "id": 317,
+    "nombre": "RECONSTRUCCION TRAMOS COLAPSADOS DE L.A.T. 66 Y 132 KV EN LA PROVINCIA DE CORDOBA - ZONA SUR",
+    "localidad": "NICOLAS BRUZZONE",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 296193,
+    "latitud": -34.3833,
+    "longitud": -64.6167
+  },
+  {
+    "id": 322,
+    "nombre": "RECONSTRUCCION TRAMOS COLAPSADOS DE L.A.T. 66 Y 132 KV EN LA PROVINCIA DE CORDOBA - ZONA ESTE",
+    "localidad": "EL TIO",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 154237,
+    "latitud": -31.3833,
+    "longitud": -62.8167
+  },
+  {
+    "id": 325,
+    "nombre": "CONSTRUCCION DE RED PREENSAMBLADA, SETS Y LINEA AEREA EN M.T. EN LA CARLOTA – ZONA F",
+    "localidad": "LA CARLOTA",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 357845,
+    "latitud": -33.4197,
+    "longitud": -63.2978
+  },
+  {
+    "id": 331,
+    "nombre": "REACONDICIONAMIENTO DE DISTRITO Y ESTACION TRANSFORMADORA EN ZONA B- CAPILLA DEL MONTE-E.P.E.C",
+    "localidad": "CAPILLA DEL MONTE",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 282062,
+    "latitud": -30.8592,
+    "longitud": -64.525
+  },
+  {
+    "id": 334,
+    "nombre": "REMODELACION DE LINEAS AEREAS EN B.T. POR CABLE PREENSAMBLADO EN BARRIOS DE CABALANGO, TANTI Y PARQUE SIQUIMAN",
+    "localidad": "CABALANGO",
+    "division": "EPEC",
+    "tipologia": "OBRA",
+    "montoMillones": 468910,
+    "latitud": -31.3917,
+    "longitud": -64.5583
+  },
+  {
+    "id": 337,
+    "nombre": "CONSTRUCCION - RP5 - ROTONDA INTERSECCION RP5 - CORDOBA",
+    "localidad": "ALTA GRACIA",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 505984,
+    "latitud": -31.6529,
+    "longitud": -64.4283
+  },
+  {
+    "id": 338,
+    "nombre": "CONSTRUCCION - AUTOVIA PUNILLA - TR COMUNA SAN ROQUE - MOLINARI - SECTOR 1B: B. MASSE - STA. M. PUNILLA",
+    "localidad": "SANTA MARIA DE PUNILLA",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 188608,
+    "latitud": -31.2806,
+    "longitud": -64.4694
+  },
+  {
+    "id": 343,
+    "nombre": "RN38 - OBRA COMPLEMENTARIA Nº5 - ACCESO MOLINARI",
+    "localidad": "CASA GRANDE",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 467424,
+    "latitud": -31.1667,
+    "longitud": -64.4833
+  },
+  {
+    "id": 344,
+    "nombre": "RN38 - OBRA COMPLEMENTARIA Nº2 - BV. CASSAFOUTH",
+    "localidad": "BIALET MASSE",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 35508,
+    "latitud": -31.3114,
+    "longitud": -64.4644
+  },
+  {
+    "id": 345,
+    "nombre": "RN38 - OBRA COMPLEMENTARIA Nº1 - CALLE EVA PERON",
+    "localidad": "SAN ROQUE",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 180198,
+    "latitud": -31.35,
+    "longitud": -64.45
+  },
+  {
+    "id": 349,
+    "nombre": "ILU CALAMUCHITA SECCION 3",
+    "localidad": "LA SERRANITA",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 604056,
+    "latitud": -31.7333,
+    "longitud": -64.4333
+  },
+  {
+    "id": 350,
+    "nombre": "ILU CALAMUCHITA SECCION 4",
+    "localidad": "VILLA CIUDAD DE AMERICA",
+    "division": "CASISA",
+    "tipologia": "OBRA",
+    "montoMillones": 438231,
+    "latitud": -31.8167,
+    "longitud": -64.5333
+  },
+  {
+    "id": 369,
+    "nombre": "GAS POR RENGLON 1 - CHAJAN",
+    "localidad": "CHAJAN",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 527802,
+    "latitud": -33.55,
+    "longitud": -65.0167
+  },
+  {
+    "id": 372,
+    "nombre": "GAS POR RENGLON 1 - BERROTARAN",
+    "localidad": "BERROTARAN",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 144851,
+    "latitud": -32.45,
+    "longitud": -64.3833
+  },
+  {
+    "id": 373,
+    "nombre": "GAS POR RENGLON 1 - HUANCHILLA",
+    "localidad": "HUANCHILLA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 434340,
+    "latitud": -33.6333,
+    "longitud": -63.65
+  },
+  {
+    "id": 375,
+    "nombre": "GAS POR RENGLON 1 - POZO DEL MOLLE",
+    "localidad": "POZO DEL MOLLE",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 496425,
+    "latitud": -32.0167,
+    "longitud": -62.9167
+  },
+  {
+    "id": 377,
+    "nombre": "GAS POR RENGLON 1 - SAMPACHO",
+    "localidad": "SAMPACHO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 489378,
+    "latitud": -33.3833,
+    "longitud": -64.7167
+  },
+  {
+    "id": 378,
+    "nombre": "GAS POR RENGLON 1 - MIRAMAR I",
+    "localidad": "MIRAMAR",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 368621,
+    "latitud": -30.9167,
+    "longitud": -62.6667
+  },
+  {
+    "id": 382,
+    "nombre": "GAS POR RENGLON 2 - LA GRANJA",
+    "localidad": "LA GRANJA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 393282,
+    "latitud": -31.0167,
+    "longitud": -64.2667
+  },
+  {
+    "id": 384,
+    "nombre": "GAS POR RENGLON 2 - MALVINAS ARGENTINAS",
+    "localidad": "MALVINAS ARGENTINAS",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 378355,
+    "latitud": -31.3667,
+    "longitud": -64.05
+  },
+  {
+    "id": 386,
+    "nombre": "GAS POR RENGLON 2 - SAN ESTEBAN",
+    "localidad": "SAN ESTEBAN",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 210560,
+    "latitud": -30.9167,
+    "longitud": -64.5333
+  },
+  {
+    "id": 387,
+    "nombre": "GAS POR RENGLON 2 - MALAGUEÑO",
+    "localidad": "MALAGUEÑO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 468314,
+    "latitud": -31.4667,
+    "longitud": -64.35
+  },
+  {
+    "id": 388,
+    "nombre": "GAS POR RENGLON 2 - SAN NICOLAS",
+    "localidad": "SAN NICOLAS TIERRA ALTA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 621807,
+    "latitud": -31.4833,
+    "longitud": -64.4333
+  },
+  {
+    "id": 391,
+    "nombre": "GAS POR RENGLON 3 - NONO CENTRO",
+    "localidad": "NONO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 661492,
+    "latitud": -31.7975,
+    "longitud": -65.0033
+  },
+  {
+    "id": 393,
+    "nombre": "GAS POR RENGLON 3 - SAN LORENZO",
+    "localidad": "SAN LORENZO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 435822,
+    "latitud": -31.6833,
+    "longitud": -65.0
+  },
+  {
+    "id": 394,
+    "nombre": "GAS POR RENGLON 3 - QUILINO",
+    "localidad": "QUILINO ISCHILIN",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 688902,
+    "latitud": -30.2167,
+    "longitud": -64.4833
+  },
+  {
+    "id": 397,
+    "nombre": "GAS POR RENGLON 3 - LA PAZ - CENTRO",
+    "localidad": "LA PAZ",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 449814,
+    "latitud": -32.2167,
+    "longitud": -65.05
+  },
+  {
+    "id": 400,
+    "nombre": "GAS POR RENGLON 3 - LUYABA",
+    "localidad": "LUYABA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 264745,
+    "latitud": -32.15,
+    "longitud": -65.0333
+  },
+  {
+    "id": 401,
+    "nombre": "GAS POR RENGLON 3 - SAN JAVIER - ESCUELA",
+    "localidad": "SAN JAVIER",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 581909,
+    "latitud": -32.0167,
+    "longitud": -65.0333
+  },
+  {
+    "id": 416,
+    "nombre": "FINALIZACION OBRA BASICA DE SANEAMIENTO CLOACAL - HERNANDO, CORDOBA",
+    "localidad": "HERNANDO",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 241682,
+    "latitud": -32.4264,
+    "longitud": -63.7333
+  },
+  {
+    "id": 417,
+    "nombre": "ESTACION DE BOMBEO, CAÑERIA DE IMPULSION, PLANTA DEPURADORA DE LIQUIDOS CLOACALES, SISTEMA DE RIEGO - LUCA, CORDOBA",
+    "localidad": "LUCA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 446967,
+    "latitud": -32.6833,
+    "longitud": -63.3833
+  },
+  {
+    "id": 418,
+    "nombre": "REDES CLOACALES - PORTEÑA, CORDOBA",
+    "localidad": "PORTEÑA",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 423959,
+    "latitud": -31.0167,
+    "longitud": -62.0667
+  },
+  {
+    "id": 420,
+    "nombre": "REDES COLECTORAS CLOACALES DOMICILIARIAS - ALTO ALEGRE, CORDOBA",
+    "localidad": "ALTO ALEGRE",
+    "division": "HYG",
+    "tipologia": "OBRA",
+    "montoMillones": 570083,
+    "latitud": -32.35,
+    "longitud": -62.8833
+  }
+]
